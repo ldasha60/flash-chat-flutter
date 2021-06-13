@@ -1,6 +1,7 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-
+(not finished)
+in progress
 # Flash Chat ⚡️
  a modern messaging app where users can sign up and log in to chat.
 
