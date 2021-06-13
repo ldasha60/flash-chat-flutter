@@ -2,6 +2,7 @@
 
 (not finished)
 in progress
+How it will look like:
 # Flash Chat ⚡️
  a modern messaging app where users can sign up and log in to chat.
 
