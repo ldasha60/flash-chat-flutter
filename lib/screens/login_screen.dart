@@ -69,8 +69,9 @@ class _LoginScreenState extends State<LoginScreen> {
                 color: Colors.lightBlueAccent,
                 text: 'Log In',
                 onPressed: () async {
-                  showSpinner = true;
-                  //Implement login functionality.
+                  setState(() {
+                    showSpinner = true;
+                  });
                   try {
                     final existUser = await _auth.signInWithEmailAndPassword(
                         email: email, password: password);
